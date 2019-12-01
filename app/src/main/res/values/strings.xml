@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Find</string>
+    <string name="wifi">Wifi</string>
+    <string name="gps">GPS</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="or">Or</string>
+    <string name="sign_up_u"><u>Sign up</u></string>
+    <string name="name">Name</string>
+    <string name="sign_up">Sign up</string>
+    <string name="title_activity_gps">Map</string>
+    <string name="discover">Discover</string>
+    <string name="check">Check</string>
+    <string name="device_name">Device name</string>
+    <string name="device_address">Device address</string>
+    <string name="status">Status</string>
+</resources>

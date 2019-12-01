@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TableRow android:padding="10dp">
+        <TextView
+            android:text="Người dùng:"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:textSize="14sp"/>
+        <TextView
+            android:id="@+id/tvUsername"
+            android:textColor="#000"
+            android:layout_marginStart="20dp"
+            android:textSize="14sp"/>
+    </TableRow>
+
+    <TableRow android:padding="10dp">
+        <TextView
+            android:text="Thiết bị:"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:textSize="14sp"/>
+        <TextView
+            android:id="@+id/tvDeviceName"
+            android:textColor="#000"
+            android:layout_marginStart="20dp"
+            android:textSize="14sp"/>
+    </TableRow>
+
+    <TableRow android:padding="10dp">
+        <TextView
+            android:text="Trạng thái hoạt động:"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:textSize="14sp"/>
+        <TextView
+            android:id="@+id/tvStatus"
+            android:textColor="#000"
+            android:layout_marginStart="20dp"
+            android:textSize="14sp"/>
+    </TableRow>
+
+
+
+</TableLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007235676207",
+    "firebase_url": "https://korean-804dd.firebaseio.com",
+    "project_id": "korean-804dd",
+    "storage_bucket": "korean-804dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007235676207:android:9b7201ba48b9d5f7256eda",
+        "android_client_info": {
+          "package_name": "com.nullexcom.find"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007235676207-h6hc6gagqbvjdolrspkg209sk7hsbkl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvWI0L-WcFQ6VXWr342--oQGgLP9L-gmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007235676207-h6hc6gagqbvjdolrspkg209sk7hsbkl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
